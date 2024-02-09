@@ -1,0 +1,7 @@
+
+train: C:/robocon_24/cocoYOLO/coco/train
+val: C:/robocon_24/cocoYOLO/coco/val
+test: C:/robocon_24/cocoYOLO/coco/test
+
+nc: 1  # Number of classes
+names: ['sports ball']  # Class names
